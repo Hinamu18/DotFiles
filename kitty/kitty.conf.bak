@@ -1,0 +1,25 @@
+include $HOME/.cache/wal/colors-kitty.conf
+
+shell /usr/bin/fish
+
+# font_family JetBrainsMono Nerd Font 
+font_family ~/.local/share/fonts/PixelCode-ExtraBold.ttf
+# font_smooth true 
+bold_font        auto
+font_size 16
+
+background_opacity 0.7
+
+background_blur 1
+
+# window settings
+#initial_window_width 95c
+#initial_window_height 35c
+#window_padding_width 20
+#confirm_os_window_close 0
+
+enable_audio_bell no
+
+
+
+
