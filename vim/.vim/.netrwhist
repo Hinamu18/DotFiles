@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/gfed/Code/C'
+let g:netrw_dirhist_8='/home/gfed/Code'
+let g:netrw_dirhist_7='/home/gfed/MyGitHub'
+let g:netrw_dirhist_6='/home/gfed/MyGitHub/Dotfiles'
+let g:netrw_dirhist_5='/home/gfed/MyGitHub/Dotfiles/kitty'
+let g:netrw_dirhist_4='/home/gfed/MyGitHub/Dotfiles'
+let g:netrw_dirhist_3='/home/gfed/MyGitHub'
+let g:netrw_dirhist_2='/home/gfed/.config/BraveSoftware/Brave-Browser'
+let g:netrw_dirhist_1='/home/gfed/.config/BraveSoftware'
