@@ -1,9 +1,7 @@
 if status is-interactive
-  cd ~/Desktop/
+  # if u have a Desktop folder
+  # cd ~/Desktop/ 
   set fish_greeting
-  alias vim "nvim"
-  alias CODEc "cd ~/Desktop/Code/C/"
-  alias CODEC "cd ~/Desktop/Code/c++/"
-  alias CODE "cd ~/Desktop/Code/"
-  
+  # if u want a neovim 
+  # alias vim "nvim"
 end
