@@ -6,8 +6,7 @@ makepkg -si
 cd .. 
 rm -rf paru
 
-paru -Sy kitty ttf-dejavu wofi vim neovim fastfetch waybar python-pywal walrs ttf-font-awesome zathura ttf-nerd-fonts-symbols swww vencord yazi pavucontrol easyeffects brightnessctl unzip ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libxfixeslibx11 libxcomposite libxrender libxcursor pixman wayland-protocols cairo pango libxkbcommon xcb-util-wm xorg-xwayland libinput libliftoff libdisplay-info cpio tomlplusplus hyprlang-git hyprcursor-git hyprwayland-scanner-git xcb-util-errors hyprutils-git glaze hyprgraphics-git aquamarine-git re2 hyprland-qtutils ttf-freefont ttf-ms-fonts ttf-linux-libertine ttf-dejavu ttf-inconsolata ttf-ubuntu-font-family noto-fonts-cjk noto-fonts-emoji noto-fonts qbittorrent steam lib32-systemd obsidian obs-studio eog
-
+paru -Sy kitty ttf-dejavu wofi vim neovim fastfetch waybar python-pywal walrs ttf-font-awesome zathura ttf-nerd-fonts-symbols swww vencord yazi pavucontrol easyeffects brightnessctl unzip ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libxfixeslibx11 libxcomposite libxrender libxcursor pixman wayland-protocols cairo pango libxkbcommon xcb-util-wm xorg-xwayland libinput libliftoff libdisplay-info cpio tomlplusplus hyprlang-git hyprcursor-git hyprwayland-scanner-git xcb-util-errors hyprutils-git glaze hyprgraphics-git aquamarine-git re2 hyprland-qtutils ttf-freefont ttf-ms-fonts ttf-linux-libertine ttf-dejavu ttf-inconsolata ttf-ubuntu-font-family noto-fonts-cjk noto-fonts-emoji noto-fonts qbittorrent steam lib32-systemd obsidian obs-studio eog xdg-desktop-portal-hyprland
 cp ./assets/ttf.zip 
 mkdir  ~/.local/share/fonts/
 unzip ttf.zip
